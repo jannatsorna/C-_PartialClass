@@ -20,7 +20,7 @@ namespace Partial_Class
             {
                 id = 2;
                 name = "Sorna";
-                cg = 3.65;
+                cg = //have to enter cg;
             }
         }
         public partial class Student
